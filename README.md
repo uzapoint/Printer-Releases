@@ -4,16 +4,16 @@
 
 ## Download
 
-[![Download Latest](https://img.shields.io/github/v/release/uzapoint/Printer-Releases?label=Download%20Latest&style=for-the-badge&color=2ea44f&logo=windows)](https://github.com/uzapoint/Printer-Releases/releases/latest)
+[![Download v1.0.4](https://img.shields.io/badge/Download_v1.0.4-Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/uzapoint/Printer-Releases/releases/download/v1.0.4/up-printer-1.0.4-setup.exe)
 
-Click the badge above, then download the file ending in **`-setup.exe`**, run it, and follow the prompts.
+Click the badge to download the installer directly. Run the `.exe` and follow the prompts.
 
 ---
 
 ## How to install
 
-1. Click the **Download Latest** badge above and grab the `-setup.exe` file.
-2. Run the installer and follow the on-screen prompts.
+1. Click **Download** above — the installer downloads directly to your machine.
+2. Run the `.exe` and follow the on-screen prompts.
 3. Up Printer starts automatically and appears in your **system tray** (near the clock).
 4. In UzaPoint, go to **Settings → Printing** and confirm the printer name matches your Windows printer.
 
