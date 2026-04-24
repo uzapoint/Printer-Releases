@@ -1,42 +1,58 @@
-# UzaPoint Up Printer — Downloads
+# UzaPoint Up Printer
 
-This repository hosts the **official installers** for **UzaPoint Up Printer**.
+> A lightweight Windows background service that connects UzaPoint to your local printers and devices.
 
-## Download (Windows)
+## Download
 
-1. Open the latest release in the **Releases** section (right-hand side).
-2. Download the file ending with **`-setup.exe`** (example: `up-printer-2.0.1-setup.exe`).
-3. Run the installer and follow the prompts.
+[![Download Latest](https://img.shields.io/github/v/release/uzapoint/Printer-Releases?label=Download%20Latest&style=for-the-badge&color=2ea44f&logo=windows)](https://github.com/uzapoint/Printer-Releases/releases/latest)
 
-## What this app does
+Click the badge above, then download the file ending in **`-setup.exe`**, run it, and follow the prompts.
 
-UzaPoint Up Printer is a lightweight local adapter that enables printing (and device integrations) from UzaPoint on Windows.
+---
 
-## Updates
+## How to install
 
-UzaPoint Up Printer **checks for updates automatically**:
+1. Click the **Download Latest** badge above and grab the `-setup.exe` file.
+2. Run the installer and follow the on-screen prompts.
+3. Up Printer starts automatically and appears in your **system tray** (near the clock).
+4. In UzaPoint, go to **Settings → Printing** and confirm the printer name matches your Windows printer.
 
-- **On app start**
-- **Periodically while running**
+---
 
-When an update is available, it downloads in the background and will prompt you to **restart** to apply it.
+## What it does
+
+- **Printing** — bridges UzaPoint to any USB or network printer on your machine
+- **Device integrations** — supports additional peripheral connections alongside printing
+- **Auto-updates** — checks for updates on startup and in the background; prompts you to restart when a new version is ready
+
+---
 
 ## System requirements
 
-- Windows 10/11
-- A supported printer installed in Windows (USB, network, etc.)
+- Windows 10 or 11 (64-bit)
+- A printer installed in Windows (USB, network, etc.)
+
+---
 
 ## Troubleshooting
 
-- **The app doesn’t open**: Check the system tray (near the clock). Up Printer may run in the background.
-- **Printing fails**: Verify your Windows printer name matches the app’s “Default printer name” setting.
-- **Need logs**: Open Up Printer → Settings → Logs (or “Copy support info”) and share it with support.
+**The app doesn't open**
+Check the system tray near the clock. Up Printer runs in the background — right-click the tray icon to open settings.
 
-## Security note
+**Printing fails**
+Open Up Printer settings and confirm the "Default printer name" exactly matches the printer name shown in Windows Settings → Bluetooth & devices → Printers.
 
-Only download installers from this GitHub Releases page.
+**Need to share logs**
+Open Up Printer → Settings → Logs, then click **Copy support info** and share it with your support contact.
+
+---
+
+## Security
+
+Only download installers from this GitHub Releases page. Do not install from other sources.
+
+---
 
 ## Support
 
-Contact your UzaPoint support channel, or your internal IT/admin.
-
+Contact your UzaPoint support channel or your internal IT administrator.
