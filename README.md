@@ -19,6 +19,12 @@ Click the badge to download the installer directly. Run the `.exe` and follow th
 
 ---
 
+## Setup Instructions
+
+- There is an **Instructions** tab on this application guiding you on how to setup this printer with our online systems.
+
+---
+
 ## What it does
 
 - **Printing** — bridges UzaPoint to any USB or network printer on your machine
@@ -40,7 +46,7 @@ Click the badge to download the installer directly. Run the `.exe` and follow th
 Check the system tray near the clock. Up Printer runs in the background — right-click the tray icon to open settings.
 
 **Printing fails**
-Open Up Printer settings and confirm the "Default printer name" exactly matches the printer name shown in Windows Settings → Bluetooth & devices → Printers.
+Open Up Printer dashboard and confirm the "Default printer name" exactly matches the printer name shown in Windows Settings → Bluetooth & devices → Printers.
 
 **Need to share logs**
 Open Up Printer → Settings → Logs, then click **Copy support info** and share it with your support contact.
