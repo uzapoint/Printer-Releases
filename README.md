@@ -4,7 +4,7 @@
 
 ## Download
 
-[![Download v1.2.1](https://img.shields.io/badge/Download_v1.2.1-Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/uzapoint/Printer-Releases/releases/download/v1.2.1/up-printer-1.2.1-setup.exe)
+[![Download v1.2.2](https://img.shields.io/badge/Download_v1.2.2-Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/uzapoint/Printer-Releases/releases/download/v1.2.2/up-printer-1.2.2-setup.exe)
 
 Click the badge to download the installer directly. Run the `.exe` and follow the prompts.
 
